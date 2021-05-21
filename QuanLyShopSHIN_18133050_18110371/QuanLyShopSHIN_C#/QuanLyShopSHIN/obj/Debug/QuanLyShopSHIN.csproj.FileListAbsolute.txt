@@ -1,0 +1,14 @@
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.csprojAssemblyReference.cache
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.csproj.CoreCompileInputs.cache
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.exe.config
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.exe
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.pdb
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.exe
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.pdb
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.exe.config
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.exe
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\bin\Debug\QuanLyShopSHIN.pdb
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.csprojAssemblyReference.cache
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.csproj.CoreCompileInputs.cache
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.exe
+D:\IT\laptrinhhuongdoituong\QuanLyShopSHIN_18133050_18110371\QuanLyShopSHIN_C#\QuanLyShopSHIN\obj\Debug\QuanLyShopSHIN.pdb
